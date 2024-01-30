@@ -24,7 +24,7 @@ Una vez acordados los plazos, comenzamos a trabajar actualizando cada etapa del 
 - Desarrollo Web profesional
 - Optimización SEO Avanzada
 - Integración de Blog y contenido
-##### Business Sitio Web
+##### Professional App Web
 - Diseño UX/UI Avanzado
 - Desarrollo Aplicación Web
 - Optimización SEO Avanzada
@@ -43,7 +43,7 @@ Una vez acordados los plazos, comenzamos a trabajar actualizando cada etapa del 
 - Formulario de contacto
 - Icono de Whatsapp
 - Listo en 5 días
-##### Plan Rappid
+##### Plan Personalizado
 - Página web totalmente personalizada, a medida, con funcionalidades, animaciones, y contenido que necesitas para lograr el objetivo de tu marca
 
 ## Tecnologías
