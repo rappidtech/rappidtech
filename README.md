@@ -63,4 +63,5 @@ Una vez acordados los plazos, comenzamos a trabajar actualizando cada etapa del 
 
 ## Proximamente RAppID Links App:
 ![https://rappidtech.com/](./rappidLinksDemo.png) 
+</br>
 ![https://rappidtech.com/](./rappidLinks.png)
