@@ -31,7 +31,7 @@ Ofrecemos soluciones innovadoras para la creación de aplicaciones y sitios web.
 [![github](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@rappidtech?_t=8jdIdUnvSLu&_r=1)
 [![Web](https://img.shields.io/badge/Mail-nosotros@rappidtech.com-14a1f0?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](mailto:nosotros@rappidtech.com)
 
-### Nuestros planes de desarrollo web: puedes encontrar mas en nuestro [sitio web](https://rappidtech.com/planes)
+## Nuestros planes de desarrollo web: puedes encontrar mas en nuestro [sitio web](https://rappidtech.com/planes)
 ##### Plan básico - StartUp Landing Page
 - Sitio estático
 - Diseño responsivo
@@ -50,7 +50,7 @@ Ofrecemos soluciones innovadoras para la creación de aplicaciones y sitios web.
 ##### Plan Personalizado
 - Diseño UX/UI Avanzado personalizada, a medida, con funcionalidades, animaciones, y contenido que necesitas para lograr el objetivo de tu marca
 
-### ¿Cómo transformamos ideas en realidad?
+## ¿Cómo transformamos ideas en realidad?
 #### 1. Contáctanos
 Puedes contactarnos directamente por [whatsapp](https://api.whatsapp.com/send?phone=543814094843&text=Hola%2C%20estoy%20interesado%20en%20sus%20servicios%20de%20software)
 o vía [mail](mailto:nosotros@rappidtech.com) 
@@ -60,6 +60,9 @@ Realizamos una reunión donde se plantean las necesidades del cliente y se plant
 Una vez que contamos con toda la información, se plantea una solución y se notifica al equipo de desarrollo.
 #### 4. Comienzo del desarrollo del proyecto.
 Una vez acordados los plazos, comenzamos a trabajar actualizando cada etapa del proyecto según el feedback del cliente.
+
+## Mira un poco de nustro portfolio de proyectos:
+[![Trading Solutions](URL-de-la-imagen)](tradingsolutions.ar)
 
 ## Proximamente RAppID Links App:
 ![https://rappidtech.com/](./rappidLinksDemo.png) 
