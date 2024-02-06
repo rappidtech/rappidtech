@@ -57,7 +57,7 @@ Una vez que contamos con toda la información, se plantea una solución y se not
 #### 4. Comienzo del desarrollo del proyecto.
 Una vez acordados los plazos, comenzamos a trabajar actualizando cada etapa del proyecto según el feedback del cliente.
 
-## Mira un poco de nustro portfolio de proyectos:
+## Mira un poco de nuestro portfolio de proyectos:
 
 <table style="width:100%">
 <tr>
