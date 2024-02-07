@@ -28,23 +28,8 @@ Ofrecemos soluciones innovadoras para la creación de aplicaciones y sitios web.
 [![github](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@rappidtech?_t=8jdIdUnvSLu&_r=1) [![Web](https://img.shields.io/badge/Mail-nosotros@rappidtech.com-14a1f0?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](mailto:nosotros@rappidtech.com)
 
 ## Nuestros planes de desarrollo web: puedes encontrar mas en nuestro [sitio web](https://rappidtech.com/planes)
-##### Plan básico - StartUp Landing Page
-- Sitio estático
-- Diseño responsivo
-- Hasta 3 páginas  (con 4 secciones)
-- Formulario de contacto
-- Icono de Whatsapp
-- Listo en 5 días
-##### Plan Rappid - Business Sitio Web
-- Sitio dinamico
-- Diseño responsivo
-- Integración de Blog y contenido
-- Hasta 5 páginas  (con 6 secciones)
-- Formulario de contacto
-- Icono de Whatsapp
-- Listo en 5 días
-##### Plan Personalizado
-- Diseño UX/UI Avanzado personalizada, a medida, con funcionalidades, animaciones, y contenido que necesitas para lograr el objetivo de tu marca
+
+![plans](./plans.png)
 
 ## ¿Cómo transformamos ideas en realidad?
 #### 1. Contáctanos
