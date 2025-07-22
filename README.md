@@ -27,10 +27,6 @@ Ofrecemos soluciones innovadoras para la creación de aplicaciones y sitios web.
 
 [![github](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@rappidtech?_t=8jdIdUnvSLu&_r=1) [![Web](https://img.shields.io/badge/Mail-nosotros@rappidtech.com-14a1f0?style=for-the-badge&logo=&logoColor=white&labelColor=101010)](mailto:nosotros@rappidtech.com)
 
-## Nuestros planes de desarrollo web: puedes encontrar mas en nuestro [sitio web](https://rappidtech.com/planes)
-
-![plans](./plans.png)
-
 ## ¿Cómo transformamos ideas en realidad?
 #### 1. Contáctanos
 Puedes contactarnos directamente por [whatsapp](https://api.whatsapp.com/send?phone=543814094843&text=Hola%2C%20estoy%20interesado%20en%20sus%20servicios%20de%20software)
